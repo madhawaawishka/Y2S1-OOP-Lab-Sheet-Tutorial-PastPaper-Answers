@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab Sheet 01"/>
+	<classpathentry kind="src" path="Lab Sheet 02"/>
+	<classpathentry excluding="Ex08, 09, 10/|Ex05, 06, 07/" kind="src" path="Lab Sheet 03"/>
+	<classpathentry kind="src" path="Lab Sheet 03/Ex05, 06, 07"/>
+	<classpathentry kind="src" path="Lab Sheet 03/Ex08, 09, 10"/>
+	<classpathentry kind="src" path="Lab Sheet 04"/>
+	<classpathentry kind="src" path="Lab Sheet 05"/>
+	<classpathentry kind="src" path="Lab Sheet 06"/>
+	<classpathentry excluding="Ex02/|Ex01/" kind="src" path="Lab Sheet 08"/>
+	<classpathentry kind="src" path="Lab Sheet 08/Ex01"/>
+	<classpathentry kind="src" path="Lab Sheet 08/Ex02"/>
+	<classpathentry kind="src" path="Tutorial 01"/>
+	<classpathentry kind="src" path="Tutorial 02"/>
+	<classpathentry kind="src" path="Tutorial 03/Ex01"/>
+	<classpathentry kind="src" path="Tutorial 03/Ex02"/>
+	<classpathentry kind="src" path="Tutorial 03/Ex03"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

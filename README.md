@@ -26,6 +26,5 @@ Answers for Y2S1 OOP Lab sheets, Tutorials and Pastpapers at SLIIT.
     I'll review your pull request as soon as possible and provide feedback. If everything looks good, I'll merge it in!
 </p>
 
-<h2>Contact</h2>
 
 
